@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\MySpace\JSPBook\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\569742960.index
+\JSPBook\src\main\java
+C:\MySpace\JSPBook\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\493783742.index
+\JSPBook\src\main\java
